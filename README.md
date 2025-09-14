@@ -1,10 +1,5 @@
 "# AI_Resume_Builder" 
 🤖 AI Resume Maker
-<div align="center">
-
-Transform your career story into a professional resume with the power of AI
-🚀 Demo • ✨ Features • ⚡ Quick Start • 🔧 API Docs • 🤝 Contributing
-</div>
 
 🎯 Overview
 The AI Resume Maker is an intelligent web application that generates professional, tailored resumes using advanced AI models. Simply describe your background, and our AI creates a comprehensive resume with proper formatting, structure, and industry-relevant content.
@@ -442,3 +437,4 @@ Ollama Community - For local LLM hosting
 DeepSeek - For the powerful R1 model
 DaisyUI - For beautiful, accessible components
 React Community - For amazing frontend tools
+
